@@ -37,7 +37,7 @@ Finally, for the business, it allows you to track conversation metrics and give 
 
 You can sign up and already start the integration on our free tier by following the guides bellow:
 
-## Getting Started
+## 🎬 Getting Started
 
 - 📚 Read the [Documentation](https://docs.langwatch.ai/introduction) for 
 - 💻 Use our SDKs to start building:
@@ -47,17 +47,36 @@ You can sign up and already start the integration on our free tier by following 
 
 Language of choice missing? [📧 Email us](mailto:support@langwatch.ai), or [💬 join our Discord](https://discord.gg/kT4PhDS2gH) and let us know!
 
-## Demo
+### Getting running
+
+1. Clone the relevant repository
+- ```bash
+  git clone https://github.com/langwatch/langwatch.git
+  ```
+- ```bash
+  # or if you use the GitHub CLI
+  gh repo clone langwatch/langwatch
+  ```
+2. Follow the documentation for setup and usage
+3. Contribute by opening issues, submitting pull requests, or discussing ideas.
+
+## 🔑 Key projects
+
+- [LangWatch](https://github.com/langwatch/langwatch) The core platform for LLM Ops, integrating monitoring, analytics, and optimization tools.
+- [LangEvals](https://github.com/langwatch/langevals) A unified framework for evaluating language models, aggregating multiple scoring methods and LLM guardrails.
+- [Docs](https://github.com/langwatch/docs) Comprehensive documentation to help users set up and utilize LangWatch tools.
+
+## 🎸 Demo
 
 [📺 Short video (3 min)](https://www.youtube.com/watch?v=dZG44oRTz84) for a sneak peak of LangWatch and a brief introduction to the concepts.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 Please read our [Contribution Guidelines](https://github.com/langwatch/langwatch/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-## Support
+## 🛟 Support
 
 If you have questions or need help, join our community:
 
