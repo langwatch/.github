@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-    <img alt="LangWatch Logo" src="assets/light.svg" width="400">
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="../assets/light.svg">
+    <img alt="LangWatch Logo" src="../assets/light.svg" width="400">
   </picture>
 </p>
 
@@ -31,7 +31,7 @@ Finally, for the business, it allows you to track conversation metrics and give 
 
 <p align="center">
   <picture>
-    <img alt="LangWatch Optimization Studio" src="assets/optium-studio.png" width="900">
+    <img alt="LangWatch Optimization Studio" src="../assets/optium-studio.png" width="900">
   </picture>
 </p>
 
