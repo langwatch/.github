@@ -65,6 +65,7 @@ Language of choice missing? [📧 Email us](mailto:support@langwatch.ai), or [�
 - [LangWatch](https://github.com/langwatch/langwatch) The core platform for LLM Ops, integrating monitoring, analytics, and optimization tools.
 - [LangEvals](https://github.com/langwatch/langevals) A unified framework for evaluating language models, aggregating multiple scoring methods and LLM guardrails.
 - [Docs](https://github.com/langwatch/docs) Comprehensive documentation to help users set up and utilize LangWatch tools.
+- [Better Agents](https://github.com/better-agents) A Standard to build the foundation of production grade agents.
 
 ## 🎸 Demo
 
