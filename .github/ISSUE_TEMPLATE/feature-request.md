@@ -3,7 +3,7 @@ name: ✨ Feature Request
 about: Suggest a new feature or enhancement
 title: ""
 type: Feature
-projects: ["5"]
+projects: ["langwatch/5"]
 assignees: ""
 ---
 

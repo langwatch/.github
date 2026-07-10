@@ -3,7 +3,7 @@ name: 🐛 Bug Report
 about: Report a bug or unexpected behavior
 title: ""
 type: Bug
-projects: ["5"]
+projects: ["langwatch/5"]
 assignees: ""
 ---
 

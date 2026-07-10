@@ -2,7 +2,7 @@
 name: ❓ Question
 about: Ask a question about LangWatch
 title: ""
-projects: ["5"]
+projects: ["langwatch/5"]
 assignees: ""
 ---
 

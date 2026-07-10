@@ -3,7 +3,7 @@ name: 🔧 Chore
 about: Maintenance tasks, refactoring, or technical debt
 title: ""
 type: Task
-projects: ["5"]
+projects: ["langwatch/5"]
 assignees: ""
 ---
 
